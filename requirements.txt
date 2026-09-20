@@ -1,2 +1,4 @@
 psutil
 nvidia-ml-py
+pystray
+pillow
